@@ -1,0 +1,3 @@
+# NextGeneSequenceDetection-GPU
+
+CUDA
